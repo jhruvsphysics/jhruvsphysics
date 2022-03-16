@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 # I used to do research in Quantum Gravity🌌 
 ## Now, I work as a <strong>software developer</strong>💻 
-### Interested in {web dev, machine learning, graphics}
+### Interested in {web dev, machine learning, graphics}🙌
