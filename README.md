@@ -64,8 +64,10 @@ Past ReadMe:
               <img src="https://img.shields.io/badge/Blog-lightgrey?style=for-the-badge&color=228B22"/>
 						</a>
 					</p>
-					<p><strong>Python, JavaScript, CSS3, HTML5, HTML5 Canvas, Flask, asynchronous API, Machine Learning</strong></p>
-          <p></p>
+					<p><strong>Python, Tensorflow, JavaScript, CSS3, HTML5, HTML5 Canvas, Flask, asynchronous API, Machine Learning</strong></p>
+          				<p>
+						Machine learning Flask app which can recognize a handwritten digit and spit out an interesting fact via asynchronous API.
+					</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -85,6 +87,7 @@ Past ReadMe:
 						</a>	
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5, React, asynchronous API</strong></p>
+					<p>React World Quizzicle app that gives you total of three life points. Get as many point as you can!</p>
 				</div>
         </tr>
 	    <tr>
@@ -105,6 +108,7 @@ Past ReadMe:
                         </a>	
                     </p>
                     <p><strong>JavaScript, CSS3, HTML5</strong></p>
+		    <p>Come check out my website for various links.</p>
                 </div>
             </td>
             <td width="50%">
@@ -121,6 +125,7 @@ Past ReadMe:
                         </a>	
                     </p>
                     <p><strong>JavaScript, CSS3, HTML5</strong></p>
+		    <p>You need to get to the finish line by making sure getting all the questions correct.</p>
                 </div>	
             </td>
         </tr>
