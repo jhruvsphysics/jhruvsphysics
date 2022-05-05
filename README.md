@@ -57,7 +57,7 @@ Past ReadMe:
 						<a href="https://github.com/jhruvsphysics/digit-recognizer-factoid" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://digit-recognizer-factoid.herokuapp.com/" target="_blank"  rel="noreferrer">
+						<a href="https://digit-recognizer-factoid.herokuapp.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
             <a href="https://jihoyoo.hashnode.dev/smooth-brain-digit-recognizer-factoid-machine-learning-from-scratch" target="_blank">
@@ -100,7 +100,7 @@ Past ReadMe:
                         <a href="#" target="_blank">
                             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
                         </a>  
-                        <a href="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/personal_website.gif" target="_blank">
+                        <a href="https://jihoyoo.netlify.app/" target="_blank">
                             <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
                         </a>	
                     </p>
@@ -116,7 +116,7 @@ Past ReadMe:
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/mario_dont_get_got.gif" target="_blank">
+                        <a href="https://jihoyoo-mario-run-dont-get-got.netlify.app/" target="_blank">
                             <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
                         </a>	
                     </p>
