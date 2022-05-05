@@ -148,6 +148,10 @@ Past ReadMe:
 			<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/css3_2.svg" alt="CSS3" height="50" />
                             &nbsp&nbsp&nbsp
                         <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/threejs.svg" alt="Three.js" height="50" />  
+			    &nbsp&nbsp&nbsp
+                        <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/sass.svg" alt="Sass.js" height="50" /> 
+			    &nbsp&nbsp&nbsp
+                        <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/redux.svg" alt="Redux.js" height="50" /> 
                     </div>
             </td>
             <td valign="top" width="50%">
@@ -166,6 +170,10 @@ Past ReadMe:
                     <img  src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/python.svg" alt="Python" height="50" /> 
                     &nbsp&nbsp&nbsp
                     <img  src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/cpp.svg" alt="C++" height="50" />
+			&nbsp&nbsp&nbsp
+                    <img  src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/tensorflow.svg" alt="Tensorflow" height="50" />
+			&nbsp&nbsp&nbsp
+                    <img  src="https://github.com/jhruvsphysics/readme-assets/blob/main/toolbox/pandas.svg" alt="pandas" height="50" />
                     <br>
                     <br>	
                 </div>
@@ -175,3 +183,37 @@ Past ReadMe:
 </div>
 </br>
 </br>
+
+<!-- SOCIALS -->
+
+<h2 align="center">Coffee Chats?</h2>
+<p align="center">
+	<a href="https://twitter.com/jhruvsphysics" target="_blank">
+		<img
+			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/twitter.svg"
+			width="40px"
+			style="padding-left: 10px"
+		/>
+	</a>
+	&nbsp&nbsp&nbsp
+	<a href="https://github.com/jhruvsphysics" target="_blank">
+		<img
+			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/github.svg"
+			width="40px"
+		/>
+	</a>
+	&nbsp&nbsp&nbsp
+	<a href="https://www.linkedin.com/in/ji-ho-yoo-45b236a8/" target="_blank">
+		<img
+			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/linkedin.svg"
+			width="40px"
+		/>
+	</a>
+	&nbsp&nbsp&nbsp
+	<a href="https://jihoyoo.hashnode.dev/" target="_blank">
+		<img
+			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/hashnode.svg"
+			width="40px"
+		/>
+	</a>
+</p>
