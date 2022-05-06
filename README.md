@@ -27,7 +27,7 @@ Past ReadMe:
 
 <h2 align="center">My Atomic Structure:</h2>
 
-- 👻 Developer of an artistic soul with an analytic mind: {AI, ML, web dev}
+- 👻 Developer of an artistic soul with an analytic mind: {AI, graphics, web dev}
 
 - 🌿 I produce lofi beats/songs 
 
