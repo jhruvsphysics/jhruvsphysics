@@ -37,7 +37,7 @@ Past ReadMe:
 
 - 📈 algorithmic trader/investor
 
-- 🎶 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific theory of harmony</a>
+- 🎶 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific & computational theory of harmony</a>
 
 <hr>
 
