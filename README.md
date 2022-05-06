@@ -29,13 +29,15 @@ Past ReadMe:
 
 - 👻 Developer of an artistic soul with an analytic mind: {AI, graphics, web dev}
 
-- 🌿 I produce lofi beats/songs 
+- 🌿 I produce lofi beats/songs.
 
 - 📚 I double-majored in mathematical physics & pure mathematics
 
 - 🥒 An avid cucumber hater
 
 - 📈 algorithmic trader/investor
+
+- 🌱 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific theory of harmony</a>
 
 <hr>
 
