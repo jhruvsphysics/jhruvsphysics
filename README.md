@@ -1,20 +1,3 @@
-<!---
-- 👋 Hi, I’m @jhruvsphysics
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-jhruvsphysics/jhruvsphysics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-Past ReadMe:
-
-# 🌌Once upon a time, I did research in Quantum Gravity🌌 
-## 💻Now, I work as a <strong>software developer</strong>💻 
-### 🙌Interested in {web dev, machine learning, graphics}🙌
---->
 <div id="header" align="center">
   <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/coding.gif" width="100"/>
 </div>
@@ -29,7 +12,7 @@ Past ReadMe:
 
 - 👻 Developer of an artistic soul with an analytic mind: {AI, graphics, web dev}
 
-- 🎧 I produce lofi beats/songs.
+- 🎧 I produce lofi beats/songs
 
 - 📚 I double-majored in mathematical physics & pure mathematics
 
@@ -38,6 +21,8 @@ Past ReadMe:
 - 📈 algorithmic trader/investor
 
 - 🎶 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific & computational theory of harmony</a>
+
+- 📝 <a href="https://github.com/jhruvsphysics/readme-assets/blob/main/atomic/Simulating_Quantum_Field_Fluctuations.pdf">Simulating Quantum Field Fluctuations</a>
 
 <hr>
 
