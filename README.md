@@ -121,6 +121,7 @@
 <!-- TECHS -->
 
 <h2 align="center">Toolbox</h2>
+
 <div align="center">
     <table>
         <tr>
@@ -170,8 +171,13 @@
         </tr>
 	</table>
 </div>
-</br>
-</br>
+
+<br>
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhruvsphysics&layout=compact&theme=dracula&hide_border=true">
+</div>
+<br>
 
 <!-- SOCIALS -->
 
