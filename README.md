@@ -66,7 +66,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="#" target="_blank">
+						<a href="https://github.com/jhruvsphysics/trivia-game" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://jihoyoo-trivia-game.netlify.app/" target="_blank">
