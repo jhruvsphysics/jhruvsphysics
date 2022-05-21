@@ -18,8 +18,6 @@
 
 - 🥒 An avid cucumber hater
 
-- 📈 algorithmic trader/investor
-
 - 🎶 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific & computational theory of harmony</a>
 
 - 📝 <a href="https://github.com/jhruvsphysics/readme-assets/blob/main/atomic/Simulating_Quantum_Field_Fluctuations.pdf">Simulating Quantum Field Fluctuations</a>
