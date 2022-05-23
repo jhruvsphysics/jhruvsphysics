@@ -8,7 +8,7 @@
 
 <hr>
 
-<i align="center">"Speak the truth, follow your instinct and believe that your intellect is at the service of your creativity and emotionality."</i>
+<i align="center">"Speak the truth, follow your gut instinct and believe in your intellect is at the service of your creativity and emotionality."</i>
 
 <hr>
 
