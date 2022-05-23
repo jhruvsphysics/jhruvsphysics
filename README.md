@@ -8,6 +8,10 @@
 
 <hr>
 
+<i align="center">"Speak the truth, follow your instinct and believe that your intellect is at the service of your creativity and emotionality."</i>
+
+<hr>
+
 <h2 align="center">My Atomic Structure:</h2>
 
 - 👻 Developer of an artistic soul with an analytic mind: {AI, graphics, web dev}
