@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/coding.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Ji Ho Yoo</h1>
+<h1 id="first" align="center">Hi 👋, I'm Ji Ho Yoo</h1>
 <h3 align="center">A full stack software developer from Vancouver.</h3>
 <h3 align="center">Once upon a time, I did research in Quantum Gravity🌌</h3>
 <h4 align="center">I was born in South Korea🇰🇷, then moved to China🇨🇳. Now I live in Canada🇨🇦</h4>
