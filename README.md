@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2 align="center">My Atomic Structure:</h2>
+<h2 id="atoms" align="center">My Atomic Structure:</h2>
 
 - 👻 Developer of an artistic soul with an analytic mind: {AI, graphics, web dev}
 
