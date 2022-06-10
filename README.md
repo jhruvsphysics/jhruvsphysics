@@ -16,6 +16,8 @@
 
 - 👻 Developer of an artistic soul with an analytic mind: {AI, graphics, web dev}
 
+- 🐦 <a href="https://www.ams.org/notices/200902/rtx090200212p.pdf">I am a bird, are you a 🐸?</a>
+
 - 🎧 I produce lofi beats/songs
 
 - 📚 I double-majored in mathematical physics & pure mathematics
@@ -23,6 +25,8 @@
 - 🥒 An avid cucumber hater
 
 - 🎶 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific & computational theory of harmony</a>
+
+- 🖊️ Hobbyist writer 
 
 - 📝 <a href="https://github.com/jhruvsphysics/readme-assets/blob/main/atomic/Simulating_Quantum_Field_Fluctuations.pdf">Simulating Quantum Field Fluctuations</a>
 
