@@ -18,8 +18,6 @@
 
 - 🐦 <a href="https://www.ams.org/notices/200902/rtx090200212p.pdf">I am a bird, are you a 🐸?</a>
 
-- 🎧 I produce lofi beats/songs
-
 - 📚 I double-majored in mathematical physics & pure mathematics
 
 - 🥒 An avid cucumber hater
