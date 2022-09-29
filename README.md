@@ -14,7 +14,7 @@
 
 <h2 id="atoms" align="center">My Atomic Structure:</h2>
 
-- 👻 Developer of an artistic soul with an analytic mind
+- 👻 Developer of an artistic soul with an analytic mind {web dev, graphics, ML}
 
 - 🐦 <a href="https://www.ams.org/notices/200902/rtx090200212p.pdf">I am a bird, are you a 🐸?</a>
 
