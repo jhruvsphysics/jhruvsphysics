@@ -34,118 +34,135 @@
 
 <h2 id="project" align="center">Projects</h2>
 <div align="center">
-	<table>
-	<tr>
-			<td width="50%">
-				<h3 align="center">You Shall Not Pass Course Tracker</h3>
-				<div align="center">  
-					<a href='https://github.com/jhruvsphysics/you-shall-not-pass-grade-calculator' target="_blank">
-						<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/you_shall_not_pass.gif" alt="digit-recognizer-factoid" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/jhruvsphysics/you-shall-not-pass-grade-calculator" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-					</p>
-					<p><strong>Express, Node.js, JavaScript, CSS3, HTML5, MongoDB, EJS, MaterializeCSS</strong></p>
-          				<p>
-						“Course Tracker” with Login Authentication, an application that tracks courses to keep grades in check.
-					</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Digit Recognizer Factoid</h3>
-				<div align="center">  
-					<a href='https://digit-recognizer-factoid.herokuapp.com/' target="_blank">
-						<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/digit_rocognizer_factoid.gif" alt="digit-recognizer-factoid" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/jhruvsphysics/digit-recognizer-factoid" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://digit-recognizer-factoid.herokuapp.com/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-            <a href="https://jihoyoo.hashnode.dev/smooth-brain-digit-recognizer-factoid-machine-learning-from-scratch" target="_blank">
-              <img src="https://img.shields.io/badge/Blog-lightgrey?style=for-the-badge&color=228B22"/>
+		<table>
+			<tr>
+				<td width="50%">
+					<h3 align="center">PUNS INTENDED.</h3>
+					<div align="center">  
+						<a href='https://puns-intended.onrender.com/' target="_blank">
+							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/puns_intended.gif" alt="puns-intended" height="100%" />
 						</a>
-					</p>
-					<p><strong>Python, Tensorflow, JavaScript, CSS3, HTML5, HTML5 Canvas, Flask, asynchronous API, Machine Learning</strong></p>
-          				<p>
-						Machine learning Flask app which can recognize a handwritten digit and spit out an interesting fact via asynchronous API.
-					</p>
-				</div>
-			</td>
-        </tr>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Quizzicle! - Get the most points!</h3>
-				<div align="center" >  
-					<a href='https://jihoyoo-trivia-game.netlify.app/' target="_blank">
-						<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/quizzicle_dont_get_got.gif" alt="Quizzicle" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/jhruvsphysics/trivia-game" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://jihoyoo-trivia-game.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>JavaScript, CSS3, HTML5, React, asynchronous API</strong></p>
-					<p>React World Quizzicle app that gives you total of three life points. Get as many point as you can!</p>
-				</div>
-			</td>
-			<td width="50%">
-                <h3 align="center">Personal Portfolio</h3>
-                <div align="center" >  
-                    <a href='https://jihoyoo.netlify.app/' target="_blank">
-                        <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/personal_website.gif" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://jihoyoo.netlify.app/" target="_blank">
-                            <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-                        </a>	
-                    </p>
-                    <p><strong>JavaScript, CSS3, HTML5</strong></p>
-		    <p>Come check out my website for various links.</p>
-                </div>
-            </td>
-        </tr>
-	    <tr>
-	    <td width="50%">
-                <h3 align="center">Mario don't get got!</h3>
-                <div align="center">  
-                    <a href='https://jihoyoo-mario-run-dont-get-got.netlify.app/' target="_blank">
-                        <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/mario_dont_get_got.gif" alt="Calculator" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://jihoyoo-mario-run-dont-get-got.netlify.app/" target="_blank">
-                            <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-                        </a>	
-                    </p>
-                    <p><strong>JavaScript, CSS3, HTML5</strong></p>
-		    <p>You need to get to the finish line by making sure getting all the questions correct.</p>
-                </div>	
-            </td>
-            <td width="50%">
-                <h3 align="center">Hey, I'm a blank slate :)</h3>
-                <div align="center" >  
-                </div>
-            </td>
-        </tr> 
-	</table>
-</div>
+						<br>
+						<br>
+						<p>
+							<a href="https://github.com/jhruvsphysics/puns-intended" target="_blank">
+								<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							</a>  
+							<a href="https://puns-intended.onrender.com/" target="_blank">
+						<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+							</a>	
+						</p>
+						<p><strong>Python, Tensorflow, JavaScript, CSS3, HTML5, HTML5 Canvas, Flask, asynchronous API, Machine Learning</strong></p>
+							<p>
+							Machine learning Flask app which can recognize a handwritten digit and spit out an interesting fact via asynchronous API.
+						</p>
+					</div>
+				</td>
+				<td width="50%">
+					<h3 align="center">Digit Recognizer Factoid</h3>
+					<div align="center">  
+						<a href='https://digit-recognizer-factoid.herokuapp.com/' target="_blank">
+							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/digit_rocognizer_factoid.gif" alt="digit-recognizer-factoid" height="100%" />
+						</a>
+						<br>
+						<br>
+						<p>
+							<a href="https://github.com/jhruvsphysics/digit-recognizer-factoid" target="_blank">
+								<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							</a>  
+							<a href="https://digit-recognizer-factoid.herokuapp.com/" target="_blank">
+						<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+							</a>	
+						<a href="https://jihoyoo.hashnode.dev/smooth-brain-digit-recognizer-factoid-machine-learning-from-scratch" target="_blank">
+						<img src="https://img.shields.io/badge/Blog-lightgrey?style=for-the-badge&color=228B22"/>
+							</a>
+						</p>
+						<p><strong>Python, Tensorflow, JavaScript, CSS3, HTML5, HTML5 Canvas, Flask, asynchronous API, Machine Learning</strong></p>
+							<p>
+							Machine learning Flask app which can recognize a handwritten digit and spit out an interesting fact via asynchronous API.
+						</p>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="50%">
+					<h3 align="center">You Shall Not Pass Course Tracker</h3>
+					<div align="center">  
+						<a href='https://github.com/jhruvsphysics/you-shall-not-pass-grade-calculator' target="_blank">
+							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/you_shall_not_pass.gif" alt="you-shall-not-pass-grade-calculator" height="100%" />
+						</a>
+						<br>
+						<br>
+						<p>
+							<a href="https://github.com/jhruvsphysics/you-shall-not-pass-grade-calculator" target="_blank">
+								<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							</a>  
+						</p>
+						<p><strong>Express, Node.js, JavaScript, CSS3, HTML5, MongoDB, EJS, MaterializeCSS</strong></p>
+							<p>
+							“Course Tracker” with Login Authentication, an application that tracks courses to keep grades in check.
+						</p>
+					</div>
+				</td>
+				<td width="50%">
+					<h3 align="center">Quizzicle! - Get the most points!</h3>
+					<div align="center" >  
+						<a href='https://jihoyoo-trivia-game.netlify.app/' target="_blank">
+							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/quizzicle_dont_get_got.gif" alt="Quizzicle" height="100%" />
+						</a>
+						<br>
+						<br>
+						<p>
+							<a href="https://github.com/jhruvsphysics/trivia-game" target="_blank">
+								<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							</a>  
+							<a href="https://jihoyoo-trivia-game.netlify.app/" target="_blank">
+								<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+							</a>	
+						</p>
+						<p><strong>JavaScript, CSS3, HTML5, React, asynchronous API</strong></p>
+						<p>React World Quizzicle app that gives you total of three life points. Get as many point as you can!</p>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="50%">
+					<h3 align="center">Personal Portfolio</h3>
+					<div align="center" >  
+						<a href='https://jihoyoo.netlify.app/' target="_blank">
+							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/personal_website.gif" height="100%" />
+						</a>
+						<br>
+						<br>
+						<p>
+							<a href="https://jihoyoo.netlify.app/" target="_blank">
+								<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+							</a>	
+						</p>
+						<p><strong>JavaScript, CSS3, HTML5</strong></p>
+						<p>Come check out my website for various links.</p>
+					</div>
+				</td>
+				<td width="50%">
+						<h3 align="center">Mario don't get got!</h3>
+						<div align="center">  
+							<a href='https://jihoyoo-mario-run-dont-get-got.netlify.app/' target="_blank">
+								<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/mario_dont_get_got.gif" alt="Calculator" height="100%" />
+							</a>
+							<br>
+							<br>
+							<p>
+								<a href="https://jihoyoo-mario-run-dont-get-got.netlify.app/" target="_blank">
+									<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+								</a>	
+							</p>
+							<p><strong>JavaScript, CSS3, HTML5</strong></p>
+							<p>You need to get to the finish line by making sure getting all the questions correct.</p>
+						</div>	
+					</td>
+			</tr> 
+		</table>
+	</div>
 <br />
 <br />
 
