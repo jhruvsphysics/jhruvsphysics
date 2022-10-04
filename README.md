@@ -52,9 +52,9 @@
 						<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 							</a>	
 						</p>
-						<p><strong>Python, Tensorflow, JavaScript, CSS3, HTML5, HTML5 Canvas, Flask, asynchronous API, Machine Learning</strong></p>
+						<p><strong>Express, Node.js, JavaScript, CSS3, HTML5, MongoDB, EJS, TailwindCSS, DaisyUI, Responsive, MVC Architecture</strong></p>
 							<p>
-							Machine learning Flask app which can recognize a handwritten digit and spit out an interesting fact via asynchronous API.
+							Social platform for sharing puns :)
 						</p>
 					</div>
 				</td>
