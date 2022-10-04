@@ -2,9 +2,7 @@
   <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/coding.gif" width="100"/>
 </div>
 <h1 id="first" align="center">Hi 👋, I'm Ji Ho Yoo</h1>
-<h3 id ="second" align="center">A full stack software developer from Vancouver.</h3>
-<h3 id ="third" align="center">Once upon a time, I did research in Quantum Gravity🌌</h3>
-<h4 id ="fourth" align="center">I was born in South Korea🇰🇷, then moved to China🇨🇳. Now I live in Canada🇨🇦</h4>
+<h2 id ="second" align="center">A full stack software developer from Vancouver.</h2>
 
 <hr>
 
@@ -22,9 +20,7 @@
 
 - 🥒 An avid cucumber hater
 
-- 🎶 abstracing musical ideas while reading <a href="https://arxiv.org/html/1202.4212v2">scientific & computational theory of harmony</a>
-
-- 🖊️ Hobbyist writer 
+- 🎶 I enjoyed <a href="https://arxiv.org/html/1202.4212v2">scientific & computational theory of harmony</a>
 
 - 📝 <a href="https://github.com/jhruvsphysics/readme-assets/blob/main/atomic/Simulating_Quantum_Field_Fluctuations.pdf">Simulating Quantum Field Fluctuations</a>
 
