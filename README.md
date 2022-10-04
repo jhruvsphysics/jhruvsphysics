@@ -37,7 +37,7 @@
 		<table>
 			<tr>
 				<td width="50%">
-					<h3 align="center">PUNS INTENDED.</h3>
+					<h3 align="center">PUN INTENDED.</h3>
 					<div align="center">  
 						<a href='https://puns-intended.onrender.com/' target="_blank">
 							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/puns_intended.gif" alt="puns-intended" height="100%" />
