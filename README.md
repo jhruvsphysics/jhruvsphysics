@@ -2,13 +2,15 @@
   <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/coding.gif" width="100"/>
 </div>
 <h1 id="first" align="center">Hi 👋, I'm Ji Ho Yoo</h1>
-<h2 id ="second" align="center">A full stack software developer from Vancouver.</h2>
+<h2 id ="second" align="center">a software developer from vancouver</h2>
+<h2 id ="third" align="center">i'm looking for creative ways to bring physics & math into coding</h2>
 
 <hr>
 
 <div id="say" align="center"><i>"Speak the truth, follow your gut instinct, and let your intellect serve your creativity and emotionality."</i></div>
 
 <hr>
+
 
 <h2 id="atoms" align="center">My Atomic Structure:</h2>
 
