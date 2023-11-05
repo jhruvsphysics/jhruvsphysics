@@ -127,7 +127,7 @@
 				<td width="50%">
 					<h3 align="center">Personal Portfolio</h3>
 					<div align="center" >  
-						<a href='https://jihoyoo.netlify.app/' target="_blank">
+						<a href='#' target="_blank">
 							<img src="https://github.com/jhruvsphysics/readme-assets/blob/main/projects/personal_website.gif" height="100%" />
 						</a>
 						<br>
@@ -229,31 +229,9 @@
 
 <h2 align="center">Coffee Chats?</h2>
 <p align="center">
-	<a href="https://twitter.com/jhruvsphysics" target="_blank">
-		<img
-			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/twitter.svg"
-			width="40px"
-			style="padding-left: 10px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
 	<a href="https://github.com/jhruvsphysics" target="_blank">
 		<img
 			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/github.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/ji-ho-yoo-45b236a8/" target="_blank">
-		<img
-			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/linkedin.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://jihoyoo.hashnode.dev/" target="_blank">
-		<img
-			src="https://github.com/jhruvsphysics/readme-assets/blob/main/socials/hashnode.svg"
 			width="40px"
 		/>
 	</a>
