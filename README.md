@@ -2,7 +2,7 @@
   <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/coding.gif" width="100"/>
 </div>
 <h1 id="first" align="center">hi 👋, i'm jiho</h1>
-<h2 id ="second" align="center">a software developer from vancouver</h2>
+<h2 id ="second" align="center">a software developer from canada</h2>
 <h2 id ="third" align="center">i'm looking for creative ways to bring physics & math into coding</h2>
 
 <hr>
