@@ -220,13 +220,15 @@
 
 <br>
 <!-- STATS -->
+<!--
 <div align="center" margin="100px 0 0 0">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhruvsphysics&layout=compact&theme=dracula&hide_border=true">
 </div>
 <br>
+-->
 
 <!-- SOCIALS -->
-
+<!--
 <h2 align="center">Coffee Chats?</h2>
 <p align="center">
 	<a href="https://github.com/jhruvsphysics" target="_blank">
@@ -236,3 +238,4 @@
 		/>
 	</a>
 </p>
+-->
