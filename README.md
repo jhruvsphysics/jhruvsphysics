@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/jhruvsphysics/readme-assets/blob/main/coding.gif" width="100"/>
 </div>
-<h1 id="first" align="center">hi, i'm jiho 👋</h1>
+<h1 id="first" align="center">hi, i'm chris 👋</h1>
 <h2 id="second" align="center">i love solving complex problems</h2>
 <h2 id="third" align="center">in my spare time, i enjoy playing my guitar</h2>
 <!--
