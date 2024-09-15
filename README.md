@@ -3,7 +3,7 @@
 </div>
 <h1 id="first" align="center">hi 👋</h1>
 <h2 id="second" align="center">i love solving complex problems</h2>
-<h2 id="third" align="center">in my spare time, i enjoy playing my guitar</h2>
+<h2 id="third" align="center">in my spare time, i enjoy walking endlessly</h2>
 <!--
 <h2 id ="second" align="center">a software developer from canada</h2>
 <h2 id ="third" align="center">i'm looking for creative ways to bring physics & math into coding</h2>
