@@ -4,8 +4,8 @@
 <h1 id="first" align="center">hi 👋</h1>
 <h1 id="second" align="center">i love solving complex problems</h2>
 <h2 id ="third" align="center">i'm looking for creative ways to bring physics & math into coding</h2>
-<h2 id="fourth" align="center">in my spare time, i enjoy walking endlessly</h2>
-<h2 id="fifth" align="center"><i>"Clarity Through Confusion"</i> is my motto for learning.</h2>
+<h3 id="fourth" align="center">in my spare time, i enjoy walking endlessly</h3>
+<h3 id="fifth" align="center"><i>"Clarity Through Confusion"</i> is my motto for learning</h3>
 
 
 <hr>
